@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO_NET.ADO_NET.MyApp", "ITMO.ADO_NET.LAB3.DBCommand\ITMO.ADO_NET.ADO_NET.MyApp.csproj", "{A663E7FC-D55B-4D7C-8536-ECB71CF12A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A663E7FC-D55B-4D7C-8536-ECB71CF12A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A663E7FC-D55B-4D7C-8536-ECB71CF12A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A663E7FC-D55B-4D7C-8536-ECB71CF12A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A663E7FC-D55B-4D7C-8536-ECB71CF12A67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7914F005-63A7-454D-9D9E-35B13E72972D}
+	EndGlobalSection
+EndGlobal
